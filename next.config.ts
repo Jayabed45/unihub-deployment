@@ -8,8 +8,13 @@ const nextConfig: NextConfig = {
   },
   
   // Image optimization
-  images: {
-    domains: ['unihub-deployment-backend.onrender.com'],
+ images: {
+  remotePatterns: [
+      {
+      protocol: 'https',
+      hostname: 'unihub-deployment-backend.onrender.com',
+      },
+    ],
   },
 
   // Security headers
