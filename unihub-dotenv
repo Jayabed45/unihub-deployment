@@ -1,0 +1,9 @@
+MONGO_URI=mongodb://localhost:27017/unihub
+JWT_SECRET=my-secret-jwt-key
+
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USER=angelbandilao@gmail.com
+SMTP_PASS=jsmj muqg qtnj xvlc 
+SMTP_FROM="Admin@Unihub.com"
+SMTP_SECURE=false

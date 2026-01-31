@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6972c567f7088aba99c7d766"
+  },
+  "title": "New project created",
+  "message": "EDP HaTSPoTSCC (Electricity Decarbonization Program:    Harnessing The Sun's Power Through Sustainable Community    Cooperation)",
+  "project": {
+    "$oid": "6972c567f7088aba99c7d764"
+  },
+  "read": false,
+  "createdAt": {
+    "$date": "2026-01-23T00:48:39.909Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,1282 @@
+[{
+  "_id": {
+    "$oid": "6972c567f7088aba99c7d764"
+  },
+  "name": "EDP HaTSPoTSCC (Electricity Decarbonization Program:    Harnessing The Sun's Power Through Sustainable Community    Cooperation)",
+  "description": "Extension project proposal",
+  "projectLeader": {
+    "$oid": "6968037ebdd01012c3acb429"
+  },
+  "activities": [],
+  "proposalData": {
+    "project-summary": {
+      "textContent": "Provide a concise overview of the project and the essential administrative details required by the extension office.Title of the project:Beneficiaries / Project Locale:No. of Training Hours:No. of Beneficiaries:Total Project Cost:Implementing Curricular Program/s:Implementing Partner/s:Extension Agenda:1 - LAMESA2 - LIMPYU3 - LIKOP4 - LISTA5 - LAMBO6 - LAGSIK7 - LAMDOG8 - LIHOK9 - LAMIGIT10 - LOKAL",
+      "htmlContent": "<div class=\"space-y-6\"><p class=\"text-sm text-gray-600\">Provide a concise overview of the project and the essential administrative details required by the extension office.</p><div class=\"space-y-3 text-sm text-gray-900\"><div class=\"grid items-start gap-3 md:grid-cols-[240px_16px_1fr]\"><span class=\"font-semibold text-gray-900\">Title of the project</span><span class=\"font-semibold text-gray-500\">:</span><input class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200\" placeholder=\"Enter project title\" value=\"EDP HaTSPoTSCC (Electricity Decarbonization Program:    Harnessing The Sun's Power Through Sustainable Community    Cooperation)\"></div><div class=\"grid items-start gap-3 md:grid-cols-[240px_16px_1fr]\"><span class=\"font-semibold text-gray-900\">Beneficiaries / Project Locale</span><span class=\"font-semibold text-gray-500\">:</span><input class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200\" placeholder=\"e.g., Alegria, Tuburan, Cebu\" value=\"Alegria, Tuburan, Cebu\"></div><div class=\"grid items-start gap-3 md:grid-cols-[240px_16px_1fr]\"><span class=\"font-semibold text-gray-900\">No. of Training Hours</span><span class=\"font-semibold text-gray-500\">:</span><input class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200\" placeholder=\"e.g., 48 hours\" value=\"48 hours\"></div><div class=\"grid items-start gap-3 md:grid-cols-[240px_16px_1fr]\"><span class=\"font-semibold text-gray-900\">No. of Beneficiaries</span><span class=\"font-semibold text-gray-500\">:</span><input class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200\" placeholder=\"e.g., 20 homeowners (11 Female / 9 Male)\" value=\"20 homeowners (11 Female / 9 Male)\"></div><div class=\"grid items-start gap-3 md:grid-cols-[240px_16px_1fr]\"><span class=\"font-semibold text-gray-900\">Total Project Cost</span><span class=\"font-semibold text-gray-500\">:</span><input class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200\" placeholder=\"e.g., ₱93,500.00\" value=\"Php 93,500.00\"></div><div class=\"grid items-start gap-3 md:grid-cols-[240px_16px_1fr]\"><span class=\"font-semibold text-gray-900\">Implementing Curricular Program/s</span><span class=\"font-semibold text-gray-500\">:</span><textarea class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200 min-h-[72px]\" placeholder=\"List the curricular programs involved (e.g., BS in Information Technology, Bachelor in Industrial Technology)\" value=\"BS in Information Technology\nBachelor in Industrial Technology\n\"></textarea></div><div class=\"grid items-start gap-3 md:grid-cols-[240px_16px_1fr]\"><span class=\"font-semibold text-gray-900\">Implementing Partner/s</span><span class=\"font-semibold text-gray-500\">:</span><textarea class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200 min-h-[72px]\" placeholder=\"Name partner organizations (e.g., Mindanao Coalition of Power Consumers, Barangay Council)\" value=\"Mindanao Coalition of Power Consumers\nArise Christian Ministries Inc. Foundation\nBrgy. Alegria Barangay Council\"></textarea></div></div><div class=\"space-y-2\"><div class=\"flex items-center gap-2 text-sm font-semibold text-gray-900\"><span>Extension Agenda</span><span class=\"text-gray-500\">:</span></div><div class=\"grid gap-px rounded border border-yellow-200 bg-yellow-200 text-sm text-gray-700 sm:grid-cols-5\"><label class=\"flex items-center gap-2 bg-white px-3 py-2\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"><span class=\"whitespace-nowrap\">1 - LAMESA</span></label><label class=\"flex items-center gap-2 bg-white px-3 py-2\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"><span class=\"whitespace-nowrap\">2 - LIMPYU</span></label><label class=\"flex items-center gap-2 bg-white px-3 py-2\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"><span class=\"whitespace-nowrap\">3 - LIKOP</span></label><label class=\"flex items-center gap-2 bg-white px-3 py-2\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"><span class=\"whitespace-nowrap\">4 - LISTA</span></label><label class=\"flex items-center gap-2 bg-white px-3 py-2\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"><span class=\"whitespace-nowrap\">5 - LAMBO</span></label><label class=\"flex items-center gap-2 bg-white px-3 py-2\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"><span class=\"whitespace-nowrap\">6 - LAGSIK</span></label><label class=\"flex items-center gap-2 bg-white px-3 py-2\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\" checked=\"checked\"><span class=\"whitespace-nowrap\">7 - LAMDOG</span></label><label class=\"flex items-center gap-2 bg-white px-3 py-2\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"><span class=\"whitespace-nowrap\">8 - LIHOK</span></label><label class=\"flex items-center gap-2 bg-white px-3 py-2\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\" checked=\"checked\"><span class=\"whitespace-nowrap\">9 - LAMIGIT</span></label><label class=\"flex items-center gap-2 bg-white px-3 py-2\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"><span class=\"whitespace-nowrap\">10 - LOKAL</span></label></div></div></div>",
+      "inputs": [
+        {
+          "index": 0,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "Enter project title",
+          "value": "EDP HaTSPoTSCC (Electricity Decarbonization Program:    Harnessing The Sun's Power Through Sustainable Community    Cooperation)"
+        },
+        {
+          "index": 1,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "e.g., Alegria, Tuburan, Cebu",
+          "value": "Alegria, Tuburan, Cebu"
+        },
+        {
+          "index": 2,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "e.g., 48 hours",
+          "value": "48 hours"
+        },
+        {
+          "index": 3,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "e.g., 20 homeowners (11 Female / 9 Male)",
+          "value": "20 homeowners (11 Female / 9 Male)"
+        },
+        {
+          "index": 4,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "e.g., ₱93,500.00",
+          "value": "Php 93,500.00"
+        },
+        {
+          "index": 5,
+          "tag": "TEXTAREA",
+          "type": "textarea",
+          "placeholder": "List the curricular programs involved (e.g., BS in Information Technology, Bachelor in Industrial Technology)",
+          "value": "BS in Information Technology\nBachelor in Industrial Technology\n"
+        },
+        {
+          "index": 6,
+          "tag": "TEXTAREA",
+          "type": "textarea",
+          "placeholder": "Name partner organizations (e.g., Mindanao Coalition of Power Consumers, Barangay Council)",
+          "value": "Mindanao Coalition of Power Consumers\nArise Christian Ministries Inc. Foundation\nBrgy. Alegria Barangay Council"
+        },
+        {
+          "index": 7,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 8,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 9,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 10,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 11,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 12,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 13,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": true
+        },
+        {
+          "index": 14,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 15,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": true
+        },
+        {
+          "index": 16,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        }
+      ],
+      "editableCells": []
+    },
+    "rationale": {
+      "textContent": "Provide the compelling justification for the project using the required subsections. Address the need, its significance, and the intended solution.A. Statement of NeedB. Relevance of NeedC. Beneficiary ProfileD. Research BasisThe table below shows a snapshot of the FGD:Number of respondents – 30QuestionsYesNoNagkataas ang\nbayranan sa kuryente?100%0%Naay estudyante sa\npanimalay?86.67%13.33%Nakahibaw unsa ning\nrenewable energy?10%90%Nakakita na ug solar\npanel?30%70%Nakabantay sa pagbag\no sa panahon o climate change? (with\nprior explanation to climate change before asking the respondents)100%0%Gustong makahibaw\nmahitungod sa renewable energy?100%0%Gustong moubos ang\nbayranan sa kuryente ngadto sa CEBECO?100%0%Desididong mogahin ug\noras sa pagtoon matag semana?100%0%Desididong moapil sa\npilot testing sa Electricity Decarbonization Program sa komunidad?100%0%Uyon kung sa umaabot\nnaay minimal nga gastohanan aron pagpatuman sa Electricity Decarbonization\nProgram sa komunidad?100%0%Add rowDelete rowE. Proposed Solution",
+      "htmlContent": "<div class=\"space-y-6\"><p class=\"text-sm text-gray-600\">Provide the compelling justification for the project using the required subsections. Address the need, its significance, and the intended solution.</p><div class=\"space-y-6\"><section class=\"space-y-2\"><h4 class=\"text-sm font-semibold text-gray-900\">A. Statement of Need</h4><textarea class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200 min-h-[200px]\" placeholder=\"Explain the core problem or unmet need of your target beneficiaries.\" value=\"Because of its potentially catastrophic consequences, global warming is the greatest threat to the long-term economic well-being of communities in coastal areas. It is projected by the United Nations Framework Convention on Climate Change (UNFCCC) that by 2050, if nothing is done to mitigate global warming, coastal lands at sea level will be flooded by seawaters to a height of two to three meters. Global warming will also devastate communities located at higher elevations through extreme weather events – storms, floods, prolonged droughts.\nThe greatest human-caused contributor to global warming are the emissions of greenhouse gases, mainly carbon dioxide from coal-fueled power plants. During the Conference of Parties (COP26) in Glasgow, Scotland in November 2021, the member countries of the UNFCCC, consisting of almost 200 members, including the Philippines, committed to “phase out” (or “phase down”, the term preferred by India and China) of the coal power plants operating within their borders. Throughout the Philippines, around 80 to 90 percent of consumption of electricity is supplied by coal-fueled power plants. \nUnder the Paris Agreement on climate change in 2015, the Government of the Republic of the Philippines has committed “to reduce its own greenhouse gas emissions by 75 percent from its 2015 levels by the year 2030”. Electricity Decarbonization Programs are being carried out by communities in the public and private sectors of the Philippines, such as consumer groups, subdivisions, and barangays, as their primary response to counter the threat of global warming. (The Electricity Decarbonization Programs were initially formulated in February 2022 for groups of consumers residing within a common compound, but the MCPC found the EDPs appropriate for implementation by larger communities, such as subdivisions and barangays.) \nThe particular objective of EDPs is the displacement of electric power supply from coal-fueled power plants by power supply from renewable energy resources. The goal of consumer groups carrying out EDPs is to gradually transfer power supply from expensive coal power plants to cheaper renewable energy power systems so that, by 2030 or earlier, 100% of consumption of electricity by the community will come from renewable energy resources. \nElectricity Decarbonization Programs are being carried out in two stages: The first is the construction of “community-shared” solar power systems within consumer compounds, subdivisions, or barangays, to supply up to 30% of the electricity requirements of the community. The generation of community-shared solar power systems, which are usually installed on the rooftops of buildings, will be shared among the consumers located within a distinct area and connected to a common portion of the distribution system. Community-shared solar power systems is an innovation from individually-owned solar systems, whose generation is consumed only by the single customer who owns the solar power system. The second stage of the EDPs is the purchase from, or the development of, community-owned hydroelectric power plants, biomass power plants, and other renewable energy resources (also known as Distributed Generation), to displace the remaining balance of electricity consumption that coal power plants are still supplying after the solar power systems are constructed within the community. \n\"></textarea></section><section class=\"space-y-2\"><h4 class=\"text-sm font-semibold text-gray-900\">B. Relevance of Need</h4><textarea class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200 min-h-[180px]\" placeholder=\"Justify why the institution must respond to this need at this time.\" value=\"In the first stage, community-shared solar power systems will be constructed in open spaces or installed on rooftops of buildings within the community, under the Net-Metering system established by the Department of Energy in accordance with the Renewable Energy Law of 2008, a.k.a. Republic Act No. 9513. (Prior to the development of community-shared solar power systems, the only net-metering projects that have been implemented in the Philippines are for single buildings whose generation is consumed within the building rather than shared with other buildings within a distinct area.) \nThe solar power systems within the community will supply only up to 30% of the annual consumption of electric energy by the community, while the bulk of the power supply will come from the distribution system of the local distribution utility company or electric cooperative. (Note that the community will remain connected to the distribution system of the electric cooperatives or investor-owned distribution utilities like CEBECO.) Since electricity from solar power systems located within the community are cheaper than power supply from coal power plants during daytime hours, the consumers will see a reduction in the costs that they are paying for their monthly consumption of electricity. The reduction in rates will be slight (because the solar power systems provide only up to 30% of the electricity requirements), but the reduction is significant in the consumption of electricity from coal power plants. The solar power systems within the communities can be developed independently by the communities, and, in the case of the barangays, the barangay LGU can borrow the funds needed to construct the solar power system, and engage the technical experts needed to carry out the construction and operation and maintenance of the solar power systems. However, because the communities cannot raise the required investments and do not have internal expertise to carry out the solar power projects, the projects are usually developed by the communities using external funds (rather than investments by people within the community), and in partnership with private corporations, usually under 15-years build-operate-and transfer (BOT) terms in which the solar systems are transferred free of charge to the community after 15 years of cooperation period. The second stage of the EDPs is the purchase of electricity (through consumer choice, under the system of Retail Competition and Open Access, RCOA, of the EPIRA) from community-owned micro- or mini-hydroelectric power plants, each of which has capacity of 250 kilowatts to 5,000 kW (larger hydro plants are usually environmentally-destructive, and so are avoided), and other distributed generation resources, such as biomass or small wind (up to 1,000 kW), that will displace power supply from coal power plants. The community-owned hydropower plants are still being developed and will become available starting in 2025. \nThe end result of Electricity Decarbonization Programs carried out by consumer groups, subdivision homeowners associations, or barangay LGUs, is that communities of consumers of electricity throughout the Philippines will be able to obtain 100% of their power supply from renewable energy resources, by the year 2030 or earlier, at rates lower by at least two pesos per kilowatt-hour compared with power supply from coal-fueled power plants; whereas consumers are now getting 80 to 100% of their power supply from expensive coal power plants that poison the local environment and cause global warming.\n\n\n\"></textarea></section><section class=\"space-y-2\"><h4 class=\"text-sm font-semibold text-gray-900\">C. Beneficiary Profile</h4><textarea class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200 min-h-[180px]\" placeholder=\"Describe the demographics, socio-economic background, and readiness of the beneficiaries.\" value=\"The beneficiaries are homeowners of Brgy Alegria who are also members of the newly founded Alegria Farmers Agriculture Cooperative (AFACO). They had been identified as one of the communities to submit applications as recipients of the EDP project of the partnership between Mindanao Coalition of Power Consumers and Arise Christian Ministries Inc. Foundation, who are looking to expand their community projects in the Visayas after the onslaught of Typhoon Odette.\n\tIn order to compose their application, the group requested assistance from CTU Tuburan Campus as they are quite unfamiliar with renewable energy, which is the primary focus of the project.\n\tFrom among the 318 households in the barangay, 70 homeowners volunteered to be interviewed relevant to electricity decarbonization. From these homeowners, 20 were chosen based on their willingness to pursue electricity decarbonization and also considering the feasibility of solar panel installation on a south-facing portion of their house.\n\t\n\"></textarea></section><section class=\"space-y-3\"><h4 class=\"text-sm font-semibold text-gray-900\">D. Research Basis</h4><textarea class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200 min-h-[160px]\" placeholder=\"Summarize the studies, FGDs, or surveys that justify the proposed interventions.\" value=\"The Mindanao Coalition of Power Consumers has been implementing electricity decarbonization projects around Mindanao since Typhoon Sendong badly hit Northern Mindanao in 2012. MCPC Founder and then Vice President of CEPALCO, Engr. David Tauli, initiated the advocacy of harnessing solar energy as a source of renewable energy, which greatly helped small communities become aware of the advantages of using green energy and the ill effects of climate change brought about by the continuous burning of fossil fuels, etc. After Typhoon Odette made rather horrific damage to parts of the Visayas, the coalition decided to expand its advocacy to small communities in the region. One of these communities identified as a potential pilot group is the AFACO which was just recently accredited by the CDA.\nUnfortunately, the homeowners lack awareness of renewable energy and should therefore first undergo contextualized training in order to be equipped with the needed knowledge and skills to become recipients of the MCPC project. A focus group discussion with the homeowners revealed that at least 90% of them are consciously recording their increasing electricity bill but that they are not aware of possible mitigation measures except to minimize use which to them are often not doable given that most of the household equipment is run by electricity coupled with the transition to blended learning as a result of the COVID-19 pandemic.\n\n\"></textarea><div class=\"space-y-2\"><p class=\"text-sm font-medium text-gray-900\">The table below shows a snapshot of the FGD:</p><p class=\"text-sm text-gray-600\">Number of respondents – 30</p><div class=\"overflow-x-auto\"><table class=\"w-full min-w-[640px] border border-yellow-200 text-sm text-gray-700\"><thead><tr><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Questions</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\">Yes</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\">No</th></tr></thead><tbody><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Nagkataas ang\nbayranan sa kuryente?</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">100%</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">0%</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Naay estudyante sa\npanimalay?</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">86.67%</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">13.33%</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Nakahibaw unsa ning\nrenewable energy?</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">10%</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">90%</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Nakakita na ug solar\npanel?</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">30%</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">70%</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Nakabantay sa pagbag\no sa panahon o climate change? (<i>with\nprior explanation to climate change before asking the respondents</i>)</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">100%</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">0%</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Gustong makahibaw\nmahitungod sa renewable energy?</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">100%</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">0%</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Gustong moubos ang\nbayranan sa kuryente ngadto sa CEBECO?</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">100%</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">0%</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Desididong mogahin ug\noras sa pagtoon matag semana?</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">100%</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">0%</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Desididong moapil sa\npilot testing sa Electricity Decarbonization Program sa komunidad?</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">100%</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">0%</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Uyon kung sa umaabot\nnaay minimal nga gastohanan aron pagpatuman sa Electricity Decarbonization\nProgram sa komunidad?</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">100%</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:11.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">0%</span></td></tr></tbody></table></div><div class=\"mt-3 flex justify-end gap-2 text-xs\"><button type=\"button\" class=\"rounded-full border border-yellow-200 px-3 py-1 font-semibold text-yellow-700 transition hover:bg-yellow-50\">Add row</button><button type=\"button\" class=\"rounded-full border border-yellow-200 px-3 py-1 font-semibold text-yellow-700 transition hover:bg-yellow-50\">Delete row</button></div></div></section><section class=\"space-y-2\"><h4 class=\"text-sm font-semibold text-gray-900\">E. Proposed Solution</h4><textarea class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200 min-h-[200px]\" placeholder=\"Outline the specific interventions you will implement to address the identified need.\" value=\"Based on several discussions with the MCPC, the Arise Foundation, as well as the homeowners and members of AFACO, it is strongly recommended that there will be four parts to this project, as follows:\n1 - Educate\t\n2 - Initiate\n3 - Implement\n4 - Sustain\n\nEDUCATE - setting the expectations and mindset of the beneficiaries to the long-term efforts of Electricity Decarbonization Program. This will consist of a series of lectures and workshops aimed to equip the beneficiaries with the right mix of awareness and skills which will help them understand the concept of renewable energy and decarbonization.\nINITIATE - expecting positive results of the education phase, the beneficiaries will be led to experience renewable energy on a small scale scenario such as solar lighting, etc.\nIMPLEMENT - MCPC will conduct an inspection of the homeowners’ readiness to embrace the program and will start building a pilot solar energy farm within the beneficiaries' location.\nSUSTAIN - the project will be turned over to the cooperative so that they will continue, maintain and, in the future, expand the operation of their solar energy farm.\n\n\tCTU Tuburan campus extension team will play a vital role in ensuring that each phase is conducted successfully as well as ensuring the sustainability of the project by monitoring and mentoring the homeowners.\n\"></textarea></section></div></div>",
+      "inputs": [
+        {
+          "index": 0,
+          "tag": "TEXTAREA",
+          "type": "textarea",
+          "placeholder": "Explain the core problem or unmet need of your target beneficiaries.",
+          "value": "Because of its potentially catastrophic consequences, global warming is the greatest threat to the long-term economic well-being of communities in coastal areas. It is projected by the United Nations Framework Convention on Climate Change (UNFCCC) that by 2050, if nothing is done to mitigate global warming, coastal lands at sea level will be flooded by seawaters to a height of two to three meters. Global warming will also devastate communities located at higher elevations through extreme weather events – storms, floods, prolonged droughts.\nThe greatest human-caused contributor to global warming are the emissions of greenhouse gases, mainly carbon dioxide from coal-fueled power plants. During the Conference of Parties (COP26) in Glasgow, Scotland in November 2021, the member countries of the UNFCCC, consisting of almost 200 members, including the Philippines, committed to “phase out” (or “phase down”, the term preferred by India and China) of the coal power plants operating within their borders. Throughout the Philippines, around 80 to 90 percent of consumption of electricity is supplied by coal-fueled power plants. \nUnder the Paris Agreement on climate change in 2015, the Government of the Republic of the Philippines has committed “to reduce its own greenhouse gas emissions by 75 percent from its 2015 levels by the year 2030”. Electricity Decarbonization Programs are being carried out by communities in the public and private sectors of the Philippines, such as consumer groups, subdivisions, and barangays, as their primary response to counter the threat of global warming. (The Electricity Decarbonization Programs were initially formulated in February 2022 for groups of consumers residing within a common compound, but the MCPC found the EDPs appropriate for implementation by larger communities, such as subdivisions and barangays.) \nThe particular objective of EDPs is the displacement of electric power supply from coal-fueled power plants by power supply from renewable energy resources. The goal of consumer groups carrying out EDPs is to gradually transfer power supply from expensive coal power plants to cheaper renewable energy power systems so that, by 2030 or earlier, 100% of consumption of electricity by the community will come from renewable energy resources. \nElectricity Decarbonization Programs are being carried out in two stages: The first is the construction of “community-shared” solar power systems within consumer compounds, subdivisions, or barangays, to supply up to 30% of the electricity requirements of the community. The generation of community-shared solar power systems, which are usually installed on the rooftops of buildings, will be shared among the consumers located within a distinct area and connected to a common portion of the distribution system. Community-shared solar power systems is an innovation from individually-owned solar systems, whose generation is consumed only by the single customer who owns the solar power system. The second stage of the EDPs is the purchase from, or the development of, community-owned hydroelectric power plants, biomass power plants, and other renewable energy resources (also known as Distributed Generation), to displace the remaining balance of electricity consumption that coal power plants are still supplying after the solar power systems are constructed within the community. \n"
+        },
+        {
+          "index": 1,
+          "tag": "TEXTAREA",
+          "type": "textarea",
+          "placeholder": "Justify why the institution must respond to this need at this time.",
+          "value": "In the first stage, community-shared solar power systems will be constructed in open spaces or installed on rooftops of buildings within the community, under the Net-Metering system established by the Department of Energy in accordance with the Renewable Energy Law of 2008, a.k.a. Republic Act No. 9513. (Prior to the development of community-shared solar power systems, the only net-metering projects that have been implemented in the Philippines are for single buildings whose generation is consumed within the building rather than shared with other buildings within a distinct area.) \nThe solar power systems within the community will supply only up to 30% of the annual consumption of electric energy by the community, while the bulk of the power supply will come from the distribution system of the local distribution utility company or electric cooperative. (Note that the community will remain connected to the distribution system of the electric cooperatives or investor-owned distribution utilities like CEBECO.) Since electricity from solar power systems located within the community are cheaper than power supply from coal power plants during daytime hours, the consumers will see a reduction in the costs that they are paying for their monthly consumption of electricity. The reduction in rates will be slight (because the solar power systems provide only up to 30% of the electricity requirements), but the reduction is significant in the consumption of electricity from coal power plants. The solar power systems within the communities can be developed independently by the communities, and, in the case of the barangays, the barangay LGU can borrow the funds needed to construct the solar power system, and engage the technical experts needed to carry out the construction and operation and maintenance of the solar power systems. However, because the communities cannot raise the required investments and do not have internal expertise to carry out the solar power projects, the projects are usually developed by the communities using external funds (rather than investments by people within the community), and in partnership with private corporations, usually under 15-years build-operate-and transfer (BOT) terms in which the solar systems are transferred free of charge to the community after 15 years of cooperation period. The second stage of the EDPs is the purchase of electricity (through consumer choice, under the system of Retail Competition and Open Access, RCOA, of the EPIRA) from community-owned micro- or mini-hydroelectric power plants, each of which has capacity of 250 kilowatts to 5,000 kW (larger hydro plants are usually environmentally-destructive, and so are avoided), and other distributed generation resources, such as biomass or small wind (up to 1,000 kW), that will displace power supply from coal power plants. The community-owned hydropower plants are still being developed and will become available starting in 2025. \nThe end result of Electricity Decarbonization Programs carried out by consumer groups, subdivision homeowners associations, or barangay LGUs, is that communities of consumers of electricity throughout the Philippines will be able to obtain 100% of their power supply from renewable energy resources, by the year 2030 or earlier, at rates lower by at least two pesos per kilowatt-hour compared with power supply from coal-fueled power plants; whereas consumers are now getting 80 to 100% of their power supply from expensive coal power plants that poison the local environment and cause global warming.\n\n\n"
+        },
+        {
+          "index": 2,
+          "tag": "TEXTAREA",
+          "type": "textarea",
+          "placeholder": "Describe the demographics, socio-economic background, and readiness of the beneficiaries.",
+          "value": "The beneficiaries are homeowners of Brgy Alegria who are also members of the newly founded Alegria Farmers Agriculture Cooperative (AFACO). They had been identified as one of the communities to submit applications as recipients of the EDP project of the partnership between Mindanao Coalition of Power Consumers and Arise Christian Ministries Inc. Foundation, who are looking to expand their community projects in the Visayas after the onslaught of Typhoon Odette.\n\tIn order to compose their application, the group requested assistance from CTU Tuburan Campus as they are quite unfamiliar with renewable energy, which is the primary focus of the project.\n\tFrom among the 318 households in the barangay, 70 homeowners volunteered to be interviewed relevant to electricity decarbonization. From these homeowners, 20 were chosen based on their willingness to pursue electricity decarbonization and also considering the feasibility of solar panel installation on a south-facing portion of their house.\n\t\n"
+        },
+        {
+          "index": 3,
+          "tag": "TEXTAREA",
+          "type": "textarea",
+          "placeholder": "Summarize the studies, FGDs, or surveys that justify the proposed interventions.",
+          "value": "The Mindanao Coalition of Power Consumers has been implementing electricity decarbonization projects around Mindanao since Typhoon Sendong badly hit Northern Mindanao in 2012. MCPC Founder and then Vice President of CEPALCO, Engr. David Tauli, initiated the advocacy of harnessing solar energy as a source of renewable energy, which greatly helped small communities become aware of the advantages of using green energy and the ill effects of climate change brought about by the continuous burning of fossil fuels, etc. After Typhoon Odette made rather horrific damage to parts of the Visayas, the coalition decided to expand its advocacy to small communities in the region. One of these communities identified as a potential pilot group is the AFACO which was just recently accredited by the CDA.\nUnfortunately, the homeowners lack awareness of renewable energy and should therefore first undergo contextualized training in order to be equipped with the needed knowledge and skills to become recipients of the MCPC project. A focus group discussion with the homeowners revealed that at least 90% of them are consciously recording their increasing electricity bill but that they are not aware of possible mitigation measures except to minimize use which to them are often not doable given that most of the household equipment is run by electricity coupled with the transition to blended learning as a result of the COVID-19 pandemic.\n\n"
+        },
+        {
+          "index": 4,
+          "tag": "TEXTAREA",
+          "type": "textarea",
+          "placeholder": "Outline the specific interventions you will implement to address the identified need.",
+          "value": "Based on several discussions with the MCPC, the Arise Foundation, as well as the homeowners and members of AFACO, it is strongly recommended that there will be four parts to this project, as follows:\n1 - Educate\t\n2 - Initiate\n3 - Implement\n4 - Sustain\n\nEDUCATE - setting the expectations and mindset of the beneficiaries to the long-term efforts of Electricity Decarbonization Program. This will consist of a series of lectures and workshops aimed to equip the beneficiaries with the right mix of awareness and skills which will help them understand the concept of renewable energy and decarbonization.\nINITIATE - expecting positive results of the education phase, the beneficiaries will be led to experience renewable energy on a small scale scenario such as solar lighting, etc.\nIMPLEMENT - MCPC will conduct an inspection of the homeowners’ readiness to embrace the program and will start building a pilot solar energy farm within the beneficiaries' location.\nSUSTAIN - the project will be turned over to the cooperative so that they will continue, maintain and, in the future, expand the operation of their solar energy farm.\n\n\tCTU Tuburan campus extension team will play a vital role in ensuring that each phase is conducted successfully as well as ensuring the sustainability of the project by monitoring and mentoring the homeowners.\n"
+        }
+      ],
+      "editableCells": [
+        "Nagkataas ang\nbayranan sa kuryente?",
+        "100%",
+        "0%",
+        "Naay estudyante sa\npanimalay?",
+        "86.67%",
+        "13.33%",
+        "Nakahibaw unsa ning\nrenewable energy?",
+        "10%",
+        "90%",
+        "Nakakita na ug solar\npanel?",
+        "30%",
+        "70%",
+        "Nakabantay sa pagbag\no sa panahon o climate change? (with\nprior explanation to climate change before asking the respondents)",
+        "100%",
+        "0%",
+        "Gustong makahibaw\nmahitungod sa renewable energy?",
+        "100%",
+        "0%",
+        "Gustong moubos ang\nbayranan sa kuryente ngadto sa CEBECO?",
+        "100%",
+        "0%",
+        "Desididong mogahin ug\noras sa pagtoon matag semana?",
+        "100%",
+        "0%",
+        "Desididong moapil sa\npilot testing sa Electricity Decarbonization Program sa komunidad?",
+        "100%",
+        "0%",
+        "Uyon kung sa umaabot\nnaay minimal nga gastohanan aron pagpatuman sa Electricity Decarbonization\nProgram sa komunidad?",
+        "100%",
+        "0%"
+      ]
+    },
+    "goals-objectives": {
+      "textContent": "Align the project with institutional sustainable development (ISD) goals, articulate project goals, and define measurable objectives with intended outcomes.ESD GoalGoals/Objectives/Intended Outcomes (follow the required sequence)1-No Poverty7-Affordable and\nClean Energy13-Climate Action2-Zero Hunger8-Decent Work and\nEconomic Growth14-Life Below Water3- Good Health and\nWell-Being9-Industry,\nInnovation, and Infrastructure15-Life on Land4-Quality Education10-Reduced\nInequalities16-Peace, Justice\n& Strong Institutions5-Gender Equality11-Sustainable Cities\nand Communities17-Partnerships for\nthe Goals6-Clean Water and\nSanitation12-Responsible\nConsumption and ProductionIntended OutcomeA sustainable solar energy farm for the homeownersProject GoalsThere will be increased awareness on renewable energy and climate change.The homeowners will be able to pioneer electricity decarbonization in the municipality.The solar energy farm will become profitable in the long run.Objectives100% of the homeowners will have increased awareness of renewable energy and climate change.100% of the homeowners will have increased knowledge on solar energy harnessing.At least one Memorandum of Agreement will be signed.",
+      "htmlContent": "<div class=\"space-y-6\"><p class=\"text-sm text-gray-600\">Align the project with institutional sustainable development (ISD) goals, articulate project goals, and define measurable objectives with intended outcomes.</p><div class=\"space-y-3\"><h4 class=\"text-sm font-semibold text-gray-900\">ESD Goal</h4><div class=\"overflow-x-auto\"><table class=\"w-full min-w-[640px] border border-yellow-200 text-sm text-gray-700\"><thead><tr><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\" colspan=\"6\">Goals/Objectives/Intended Outcomes (follow the required sequence)</th></tr></thead><tbody><tr class=\"align-top\"><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">1-No Poverty</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\" checked=\"checked\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">7-Affordable and\nClean Energy</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\" checked=\"checked\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">13-Climate Action</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td></tr><tr class=\"align-top\"><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">2-Zero Hunger</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">8-Decent Work and\nEconomic Growth</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">14-Life Below Water</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td></tr><tr class=\"align-top\"><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">3- Good Health and\nWell-Being</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\" checked=\"checked\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">9-Industry,\nInnovation, and Infrastructure</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">15-Life on Land</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td></tr><tr class=\"align-top\"><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">4-Quality Education</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">10-Reduced\nInequalities</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">16-Peace, Justice\n&amp; Strong Institutions</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td></tr><tr class=\"align-top\"><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">5-Gender Equality</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\" checked=\"checked\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">11-Sustainable Cities\nand Communities</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\" checked=\"checked\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">17-Partnerships for\nthe Goals</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td></tr><tr class=\"align-top\"><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">6-Clean Water and\nSanitation</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\" checked=\"checked\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">12-Responsible\nConsumption and Production</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td></tr></tbody></table></div></div><div class=\"space-y-2 rounded-lg border border-yellow-200 bg-white p-4 text-sm text-gray-700\"><h4 class=\"font-semibold text-gray-900\">Intended Outcome</h4><p class=\"italic text-yellow-800\">A sustainable solar energy farm for the homeowners</p></div><div class=\"space-y-4 text-sm text-gray-700\"><div><h4 class=\"text-sm font-semibold text-gray-900\">Project Goals</h4><ol class=\"mt-2 list-decimal space-y-1 pl-6\"><li>There will be increased awareness on renewable energy and climate change.</li><li>The homeowners will be able to pioneer electricity decarbonization in the municipality.</li><li>The solar energy farm will become profitable in the long run.</li></ol></div><div><h4 class=\"text-sm font-semibold text-gray-900\">Objectives</h4><ol class=\"mt-2 list-decimal space-y-1 pl-6\"><li>100% of the homeowners will have increased awareness of renewable energy and climate change.</li><li>100% of the homeowners will have increased knowledge on solar energy harnessing.</li><li>At least one Memorandum of Agreement will be signed.</li></ol></div></div></div>",
+      "inputs": [
+        {
+          "index": 0,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": true
+        },
+        {
+          "index": 1,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": true
+        },
+        {
+          "index": 2,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 3,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 4,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 5,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 6,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": true
+        },
+        {
+          "index": 7,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 8,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 9,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 10,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 11,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 12,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": true
+        },
+        {
+          "index": 13,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": true
+        },
+        {
+          "index": 14,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 15,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": true
+        },
+        {
+          "index": 16,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        }
+      ],
+      "editableCells": [
+        "1-No Poverty",
+        "7-Affordable and\nClean Energy",
+        "13-Climate Action",
+        "2-Zero Hunger",
+        "8-Decent Work and\nEconomic Growth",
+        "14-Life Below Water",
+        "3- Good Health and\nWell-Being",
+        "9-Industry,\nInnovation, and Infrastructure",
+        "15-Life on Land",
+        "4-Quality Education",
+        "10-Reduced\nInequalities",
+        "16-Peace, Justice\n& Strong Institutions",
+        "5-Gender Equality",
+        "11-Sustainable Cities\nand Communities",
+        "17-Partnerships for\nthe Goals",
+        "6-Clean Water and\nSanitation",
+        "12-Responsible\nConsumption and Production",
+        ""
+      ]
+    },
+    "implementation-plan": {
+      "textContent": "A. Extension Delivery ModeB. Implementation PlanObjectiveActivitiesPerson ResponsibleStatusRemarksObjective\n1Training-workshops100% of the\nhomeowners will have increased awareness of renewable energy and climate changeReading the electric\nbillEngr. Ramon ConejosxEffects of Climate\nChangeEngr. Fernando N.\nMangubat Jr.xxSolar EnergyEngr. Romel BaflorxxObjective\n2100% of the\nhomeowners will have increased knowledge on solar energy harnessingSolar PanelsMr. Victor PatindolxSolar energy\napplicationsDr. James Paul TamayoxElectricity\nDecarbonizationEngr. Naomi A. BajaoxxObjective\n3At least one\nMemorandum of Agreement will be signedMeeting with other\nstakeholdersExtension teamxxPreparation of MOAExtension teamxxAdd rowDelete rowTips",
+      "htmlContent": "<div class=\"space-y-6\"><section class=\"space-y-2\"><h4 class=\"text-sm font-semibold text-gray-900\">A. Extension Delivery Mode</h4><textarea class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200 min-h-[160px]\" placeholder=\"Describe where sessions will be held, delivery formats, learning materials, and support plans for beneficiaries.\" value=\"Sessions will be held in CTU Tuburan Campus and/or the vicinity of the homeowners' location whichever is more convenient and applicable. The team will create multimedia resources and platforms to aid the training sessions. In order to aid retention, a printed handout will also be provided to serve as reference materials. Workshops will be conducted to aid experiential learning.\"></textarea></section><section class=\"space-y-3\"><h4 class=\"text-sm font-semibold text-gray-900\">B. Implementation Plan</h4><div class=\"overflow-x-auto\"><table class=\"w-full min-w-[1080px] border border-yellow-200 text-sm text-gray-700\"><thead><tr><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Objective</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Activities</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Person Responsible</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\"><input class=\"w-full rounded border border-transparent bg-transparent px-1 py-0.5 text-sm font-semibold text-gray-800 focus:border-yellow-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-yellow-200 text-center\" placeholder=\"Timeline 1\" type=\"text\" value=\"May 2023\"></th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\"><input class=\"w-full rounded border border-transparent bg-transparent px-1 py-0.5 text-sm font-semibold text-gray-800 focus:border-yellow-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-yellow-200 text-center\" placeholder=\"Timeline 2\" type=\"text\" value=\"June 2023\"></th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\"><input class=\"w-full rounded border border-transparent bg-transparent px-1 py-0.5 text-sm font-semibold text-gray-800 focus:border-yellow-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-yellow-200 text-center\" placeholder=\"Timeline 3\" type=\"text\" value=\"July 2023\"></th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\"><input class=\"w-full rounded border border-transparent bg-transparent px-1 py-0.5 text-sm font-semibold text-gray-800 focus:border-yellow-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-yellow-200 text-center\" placeholder=\"Timeline 4\" type=\"text\" value=\"Aug 2023\"></th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\"><input class=\"w-full rounded border border-transparent bg-transparent px-1 py-0.5 text-sm font-semibold text-gray-800 focus:border-yellow-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-yellow-200 text-center\" placeholder=\"Timeline 5\" type=\"text\" value=\"Sept 2023\"></th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\"><input class=\"w-full rounded border border-transparent bg-transparent px-1 py-0.5 text-sm font-semibold text-gray-800 focus:border-yellow-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-yellow-200 text-center\" placeholder=\"Timeline 6\" type=\"text\" value=\"Oct 2023\"></th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\"><input class=\"w-full rounded border border-transparent bg-transparent px-1 py-0.5 text-sm font-semibold text-gray-800 focus:border-yellow-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-yellow-200 text-center\" placeholder=\"Timeline 7\" type=\"text\" value=\"Nov 2023\"></th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Status</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Remarks</th></tr></thead><tbody><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;color:black;\nmso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Objective\n1</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;color:black;\nmso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Training</span><span style=\"font-size:9.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;\nmso-fareast-font-family:Calibri;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">-workshops</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">100% of the\nhomeowners will have increased awareness of renewable energy and climate change</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Reading the electric\nbill</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Engr. Ramon Conejos</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\">x</td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Effects of Climate\nChange</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Engr. Fernando N.\nMangubat Jr.</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\">x</td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\">x</td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Solar Energy</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Engr. Romel Baflor</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\">x</td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\">x</td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;color:black;\nmso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Objective\n2</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">100% of the\nhomeowners will have increased knowledge on solar energy harnessing</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Solar Panels</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Mr. Victor Patindol</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\">x</td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Solar energy\napplications</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Dr. James Paul Tamayo</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\">x</td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Electricity\nDecarbonization</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Engr. Naomi A. Bajao</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\">x</td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\">x</td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;color:black;\nmso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Objective\n3</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">At least one\nMemorandum of Agreement will be signed</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Meeting with other\nstakeholders</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Extension team</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\">x</td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\">x</td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Preparation of MOA</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Extension team</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\">x</td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\">x</td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr></tbody></table></div><div class=\"mt-3 flex justify-end gap-2 text-xs\"><button type=\"button\" class=\"rounded-full border border-yellow-200 px-3 py-1 font-semibold text-yellow-700 transition hover:bg-yellow-50\">Add row</button><button type=\"button\" class=\"rounded-full border border-yellow-200 px-3 py-1 font-semibold text-yellow-700 transition hover:bg-yellow-50\">Delete row</button></div><div class=\"space-y-2 rounded-lg border border-yellow-200 bg-white p-4 text-sm text-gray-700\"><h5 class=\"font-semibold text-gray-900\">Tips</h5><textarea class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200 min-h-[120px]\" value=\"\"></textarea></div></section></div>",
+      "inputs": [
+        {
+          "index": 0,
+          "tag": "TEXTAREA",
+          "type": "textarea",
+          "placeholder": "Describe where sessions will be held, delivery formats, learning materials, and support plans for beneficiaries.",
+          "value": "Sessions will be held in CTU Tuburan Campus and/or the vicinity of the homeowners' location whichever is more convenient and applicable. The team will create multimedia resources and platforms to aid the training sessions. In order to aid retention, a printed handout will also be provided to serve as reference materials. Workshops will be conducted to aid experiential learning."
+        },
+        {
+          "index": 1,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "Timeline 1",
+          "value": "May 2023"
+        },
+        {
+          "index": 2,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "Timeline 2",
+          "value": "June 2023"
+        },
+        {
+          "index": 3,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "Timeline 3",
+          "value": "July 2023"
+        },
+        {
+          "index": 4,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "Timeline 4",
+          "value": "Aug 2023"
+        },
+        {
+          "index": 5,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "Timeline 5",
+          "value": "Sept 2023"
+        },
+        {
+          "index": 6,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "Timeline 6",
+          "value": "Oct 2023"
+        },
+        {
+          "index": 7,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "Timeline 7",
+          "value": "Nov 2023"
+        },
+        {
+          "index": 8,
+          "tag": "TEXTAREA",
+          "type": "textarea",
+          "placeholder": "",
+          "value": ""
+        }
+      ],
+      "editableCells": [
+        "Objective\n1",
+        "Training-workshops",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "100% of the\nhomeowners will have increased awareness of renewable energy and climate change",
+        "Reading the electric\nbill",
+        "Engr. Ramon Conejos",
+        "",
+        "x",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Effects of Climate\nChange",
+        "Engr. Fernando N.\nMangubat Jr.",
+        "",
+        "",
+        "x",
+        "x",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Solar Energy",
+        "Engr. Romel Baflor",
+        "",
+        "",
+        "x",
+        "x",
+        "",
+        "",
+        "",
+        "",
+        "Objective\n2",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "100% of the\nhomeowners will have increased knowledge on solar energy harnessing",
+        "Solar Panels",
+        "Mr. Victor Patindol",
+        "",
+        "",
+        "",
+        "x",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Solar energy\napplications",
+        "Dr. James Paul Tamayo",
+        "",
+        "",
+        "",
+        "x",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Electricity\nDecarbonization",
+        "Engr. Naomi A. Bajao",
+        "",
+        "",
+        "",
+        "",
+        "x",
+        "x",
+        "",
+        "",
+        "Objective\n3",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "At least one\nMemorandum of Agreement will be signed",
+        "Meeting with other\nstakeholders",
+        "Extension team",
+        "x",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "x",
+        "",
+        "",
+        "Preparation of MOA",
+        "Extension team",
+        "",
+        "x",
+        "",
+        "",
+        "",
+        "",
+        "x",
+        ""
+      ]
+    },
+    "monitoring-evaluation": {
+      "textContent": "Track objectives against success indicators, baseline data, data-gathering methods, and verification tools. Use the table to document frequency, outcomes, and remarks for each objective.ObjectivesSuccess IndicatorsBaseline DataMethod of Data GatheringFrequencyActual Output / OutcomeMeans of VerificationRemarks100% of the\nhomeowners will have increased awareness of renewable energy and climate changeAt least 80% score in\nthe post-session testsPre-session testsTest Questions /\nInterviews / Hands-onper sessionRecord of scores100% of the\nhomeowners will have increased knowledge on solar energy harnessingAt least 80% score in\nthe post-session testsPre-session testsTest Questions /\nInterviews / Hands-onper sessionRecord of scoresAt least one\nMemorandum of Agreement will be signedSigned Memorandum of\nAgreementDocumentationone time",
+      "htmlContent": "<div class=\"space-y-4\"><p class=\"text-sm text-gray-600\">Track objectives against success indicators, baseline data, data-gathering methods, and verification tools. Use the table to document frequency, outcomes, and remarks for each objective.</p><div class=\"overflow-x-auto\"><table class=\"w-full min-w-[1024px] border border-yellow-200 text-sm text-gray-700\"><thead><tr><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Objectives</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Success Indicators</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Baseline Data</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Method of Data Gathering</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Frequency</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Actual Output / Outcome</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Means of Verification</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Remarks</th></tr></thead><tbody><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">100% of the\nhomeowners will have increased awareness of renewable energy and climate change</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">At least 80% score in\nthe post-session tests</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Pre-session tests</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Test Questions /\nInterviews / Hands-on</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><i><span style=\"font-size:9.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;\nmso-fareast-font-family:Calibri;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">per session</span></i></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Record of scores</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">100% of the\nhomeowners will have increased knowledge on solar energy harnessing</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">At least 80% score in\nthe post-session tests</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Pre-session tests</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Test Questions /\nInterviews / Hands-on</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><i><span style=\"font-size:9.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;\nmso-fareast-font-family:Calibri;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">per session</span></i></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Record of scores</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">At least one\nMemorandum of Agreement will be signed</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Signed Memorandum of\nAgreement</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><p class=\"MsoNormal\"><span style=\"font-size:9.0pt;line-height:115%\">Documentation<o:p></o:p></span></p></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><i><span style=\"font-size:9.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;\nmso-fareast-font-family:Calibri;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">one time</span></i></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr></tbody></table></div></div>",
+      "inputs": [],
+      "editableCells": [
+        "100% of the\nhomeowners will have increased awareness of renewable energy and climate change",
+        "At least 80% score in\nthe post-session tests",
+        "Pre-session tests",
+        "Test Questions /\nInterviews / Hands-on",
+        "per session",
+        "Record of scores",
+        "",
+        "",
+        "100% of the\nhomeowners will have increased knowledge on solar energy harnessing",
+        "At least 80% score in\nthe post-session tests",
+        "Pre-session tests",
+        "Test Questions /\nInterviews / Hands-on",
+        "per session",
+        "Record of scores",
+        "",
+        "",
+        "At least one\nMemorandum of Agreement will be signed",
+        "Signed Memorandum of\nAgreement",
+        "",
+        "Documentation",
+        "one time",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "organizational-capability": {
+      "textContent": "A. Explain why your extension team is the best group to implement this project.B. What expertise do you bring to the project?C. Describe your partner organizations/groups. Explain how you complement each other and why you have selected them as partners.D. Explain who will do what.",
+      "htmlContent": "<div class=\"space-y-4\"><label class=\"block space-y-2 text-sm text-gray-700\"><span class=\"font-medium text-gray-900\">A. Explain why your extension team is the best group to implement this project.</span><textarea class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200\" rows=\"5\" placeholder=\"Describe what makes your team uniquely qualified to lead this initiative.\" value=\"SAMPLE ANSWER\"></textarea></label><label class=\"block space-y-2 text-sm text-gray-700\"><span class=\"font-medium text-gray-900\">B. What expertise do you bring to the project?</span><textarea class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200\" rows=\"5\" placeholder=\"List key competencies, certifications, and relevant experience within your team.\" value=\"SAMPLE ANSWER\"></textarea></label><label class=\"block space-y-2 text-sm text-gray-700\"><span class=\"font-medium text-gray-900\">C. Describe your partner organizations/groups. Explain how you complement each other and why you have selected them as partners.</span><textarea class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200\" rows=\"5\" placeholder=\"Outline partner roles, strengths, and the value each brings to the collaboration.\" value=\"SAMPLE ANSWER\"></textarea></label><label class=\"block space-y-2 text-sm text-gray-700\"><span class=\"font-medium text-gray-900\">D. Explain who will do what.</span><textarea class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200\" rows=\"5\" placeholder=\"Map responsibilities across team members and partner organizations.\" value=\"SAMPLE ANSWER\"></textarea></label></div>",
+      "inputs": [
+        {
+          "index": 0,
+          "tag": "TEXTAREA",
+          "type": "textarea",
+          "placeholder": "Describe what makes your team uniquely qualified to lead this initiative.",
+          "value": "SAMPLE ANSWER"
+        },
+        {
+          "index": 1,
+          "tag": "TEXTAREA",
+          "type": "textarea",
+          "placeholder": "List key competencies, certifications, and relevant experience within your team.",
+          "value": "SAMPLE ANSWER"
+        },
+        {
+          "index": 2,
+          "tag": "TEXTAREA",
+          "type": "textarea",
+          "placeholder": "Outline partner roles, strengths, and the value each brings to the collaboration.",
+          "value": "SAMPLE ANSWER"
+        },
+        {
+          "index": 3,
+          "tag": "TEXTAREA",
+          "type": "textarea",
+          "placeholder": "Map responsibilities across team members and partner organizations.",
+          "value": "SAMPLE ANSWER"
+        }
+      ],
+      "editableCells": []
+    },
+    "community-extension-team": {
+      "textContent": "List all members of the community extension team and specify their roles and responsibilities.NameGenderRoleResponsibilityMaleFemaleAll Gender (Please specify)Engr. Naomi A. BajaoExtension Coordinator \n\n \n\nProject\nLeader\n\n \n\nTraining SpecialistCommunicate\nto the Extension Director for any update on the extension project of the\ndepartment.\n\n \n\nResponsible for the overall implementation of the project\n\n \n\nProvide technical aspects of the projectsJae-an SarucamChroniclerResource speaker and/\nor trainer and will do the documentation, and paper works that will be\nsubmitted on or after the project implementationEngr. Fernando N.\nMangubat Jr.FP-ESD, Training\nSpecialistCoordinates\nthe extension team with regards to the problem of the intervention and also\nperiodically reports on the progress of extension projects.\n\n \n\nProvide technical aspects of the projectsEngr. Ramon ConejosFP-M & E,\nTraining SpecialistResponsible for\nmonitoring at the same time to evaluate the sustainability of the project.\n\nProvide technical aspects of the projectsEngr. Romel BaflorFP-Community\nOrganizingCommunicate to the\nBarangay Officials and beneficiaries involved in the implementation of the\nprojectMr. Victor PatindolFP- Research,\nTraining SpecialistValidate\nresearch needed by the community\n\n \n\nProvide technical aspects of the projectsDr. James Paul TamayoTraining SpecialistProvide technical\naspects of the projectsBSIT/BIT StudentsDemonstratorsThey will assist the\nproject assistants specifically in the demonstration of the technology, data\ngathering, documentation, monitoring and evaluation, and case analysis. Does\nother related work.Reminders: clearly describe the role of each team member in planning, implementation, monitoring, and evaluation. Include student volunteers in the boxes provided.",
+      "htmlContent": "<div class=\"space-y-4\"><p class=\"text-sm text-gray-600\">List all members of the community extension team and specify their roles and responsibilities.</p><div class=\"overflow-x-auto\"><table class=\"w-full min-w-[840px] border border-yellow-200 text-sm text-gray-700\"><thead><tr><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\" rowspan=\"2\">Name</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\" colspan=\"3\">Gender</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\" rowspan=\"2\">Role</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\" rowspan=\"2\">Responsibility</th></tr><tr><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\">Male</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\">Female</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\">All Gender <span class=\"block text-[11px] font-normal\">(Please specify)</span></th></tr></thead><tbody><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Engr. Naomi A. Bajao</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\" checked=\"checked\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"><input class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200 h-8\" placeholder=\"Specify\" type=\"text\" value=\"\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><p class=\"MsoNormal\" style=\"text-align:justify\"><span style=\"font-size:9.0pt;\nline-height:115%\">Extension Coordinator <o:p></o:p></span></p>\n\n<p class=\"MsoNormal\" style=\"text-align:justify\"><span style=\"font-size:9.0pt;\nline-height:115%\">&nbsp;</span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size:10.0pt;line-height:115%\">Project\nLeader<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size:10.0pt;line-height:115%\">&nbsp;</span></p>\n\n<span style=\"font-size:9.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;\nmso-fareast-font-family:Calibri;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">Training Specialist</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><p class=\"MsoNormal\"><span style=\"font-size:9.0pt;line-height:115%\">Communicate\nto the Extension Director for any update on the extension project of the\ndepartment.<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size:9.0pt;line-height:115%\">&nbsp;</span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size:10.0pt;\nline-height:115%\">Responsible for the overall implementation of the project</span><span style=\"font-size:9.0pt;line-height:115%\"><o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size:9.0pt;line-height:115%\">&nbsp;</span></p>\n\n<span style=\"font-size:9.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;\nmso-fareast-font-family:Calibri;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">Provide technical aspects of the projects</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Jae-an Sarucam</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\" checked=\"checked\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"><input class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200 h-8\" placeholder=\"Specify\" type=\"text\" value=\"\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Chronicler</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Resource speaker and/\nor trainer and will do the documentation, and paper works that will be\nsubmitted on or after the project implementation</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Engr. Fernando N.\nMangubat Jr.</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\" checked=\"checked\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"><input class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200 h-8\" placeholder=\"Specify\" type=\"text\" value=\"\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">FP-ESD, Training\nSpecialist</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><p class=\"MsoNormal\"><span style=\"font-size:9.0pt;line-height:115%\">Coordinates\nthe extension team with regards to the problem of the intervention and also\nperiodically reports on the progress of extension projects.<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size:9.0pt;line-height:115%\">&nbsp;</span></p>\n\n<span style=\"font-size:9.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;\nmso-fareast-font-family:Calibri;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">Provide technical aspects of the projects</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Engr. Ramon Conejos</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\" checked=\"checked\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"><input class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200 h-8\" placeholder=\"Specify\" type=\"text\" value=\"\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">FP-M &amp; E,\nTraining Specialist</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Responsible for\nmonitoring at the same time to evaluate the sustainability of the project.<br>\n<br>\nProvide technical aspects of the projects</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Engr. Romel Baflor</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\" checked=\"checked\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"><input class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200 h-8\" placeholder=\"Specify\" type=\"text\" value=\"\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">FP-Community\nOrganizing</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Communicate to the\nBarangay Officials and beneficiaries involved in the implementation of the\nproject</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Mr. Victor Patindol</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\" checked=\"checked\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"><input class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200 h-8\" placeholder=\"Specify\" type=\"text\" value=\"\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><p class=\"MsoNormal\"><span style=\"font-size:9.0pt;line-height:115%\">FP- Research,\nTraining Specialist<o:p></o:p></span></p></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><p class=\"MsoNormal\"><span style=\"font-size:9.0pt;line-height:115%\">Validate\nresearch needed by the community<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size:9.0pt;line-height:115%\">&nbsp;</span></p>\n\n<span style=\"font-size:9.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;\nmso-fareast-font-family:Calibri;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">Provide technical aspects of the projects</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Dr. James Paul Tamayo</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\" checked=\"checked\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"><input class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200 h-8\" placeholder=\"Specify\" type=\"text\" value=\"\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Training Specialist</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Provide technical\naspects of the projects</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">BSIT/BIT Students</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\" checked=\"checked\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\" checked=\"checked\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"><input class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200 h-8\" placeholder=\"Specify\" type=\"text\" value=\"LGBT\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Demonstrators</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">They will assist the\nproject assistants specifically in the demonstration of the technology, data\ngathering, documentation, monitoring and evaluation, and case analysis. Does\nother related work.</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"><input class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200 h-8\" placeholder=\"Specify\" type=\"text\" value=\"\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"><input class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200 h-8\" placeholder=\"Specify\" type=\"text\" value=\"\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr></tbody></table></div><p class=\"text-xs text-gray-500\">Reminders: clearly describe the role of each team member in planning, implementation, monitoring, and evaluation. Include student volunteers in the boxes provided.</p></div>",
+      "inputs": [
+        {
+          "index": 0,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 1,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": true
+        },
+        {
+          "index": 2,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "Specify",
+          "value": ""
+        },
+        {
+          "index": 3,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 4,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": true
+        },
+        {
+          "index": 5,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "Specify",
+          "value": ""
+        },
+        {
+          "index": 6,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": true
+        },
+        {
+          "index": 7,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 8,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "Specify",
+          "value": ""
+        },
+        {
+          "index": 9,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": true
+        },
+        {
+          "index": 10,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 11,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "Specify",
+          "value": ""
+        },
+        {
+          "index": 12,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": true
+        },
+        {
+          "index": 13,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 14,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "Specify",
+          "value": ""
+        },
+        {
+          "index": 15,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": true
+        },
+        {
+          "index": 16,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 17,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "Specify",
+          "value": ""
+        },
+        {
+          "index": 18,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 19,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": true
+        },
+        {
+          "index": 20,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "Specify",
+          "value": ""
+        },
+        {
+          "index": 21,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": true
+        },
+        {
+          "index": 22,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": true
+        },
+        {
+          "index": 23,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "Specify",
+          "value": "LGBT"
+        },
+        {
+          "index": 24,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 25,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 26,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "Specify",
+          "value": ""
+        },
+        {
+          "index": 27,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 28,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 29,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "Specify",
+          "value": ""
+        }
+      ],
+      "editableCells": [
+        "Engr. Naomi A. Bajao",
+        "Extension Coordinator \n\n \n\nProject\nLeader\n\n \n\nTraining Specialist",
+        "Communicate\nto the Extension Director for any update on the extension project of the\ndepartment.\n\n \n\nResponsible for the overall implementation of the project\n\n \n\nProvide technical aspects of the projects",
+        "Jae-an Sarucam",
+        "Chronicler",
+        "Resource speaker and/\nor trainer and will do the documentation, and paper works that will be\nsubmitted on or after the project implementation",
+        "Engr. Fernando N.\nMangubat Jr.",
+        "FP-ESD, Training\nSpecialist",
+        "Coordinates\nthe extension team with regards to the problem of the intervention and also\nperiodically reports on the progress of extension projects.\n\n \n\nProvide technical aspects of the projects",
+        "Engr. Ramon Conejos",
+        "FP-M & E,\nTraining Specialist",
+        "Responsible for\nmonitoring at the same time to evaluate the sustainability of the project.\n\nProvide technical aspects of the projects",
+        "Engr. Romel Baflor",
+        "FP-Community\nOrganizing",
+        "Communicate to the\nBarangay Officials and beneficiaries involved in the implementation of the\nproject",
+        "Mr. Victor Patindol",
+        "FP- Research,\nTraining Specialist",
+        "Validate\nresearch needed by the community\n\n \n\nProvide technical aspects of the projects",
+        "Dr. James Paul Tamayo",
+        "Training Specialist",
+        "Provide technical\naspects of the projects",
+        "BSIT/BIT Students",
+        "Demonstrators",
+        "They will assist the\nproject assistants specifically in the demonstration of the technology, data\ngathering, documentation, monitoring and evaluation, and case analysis. Does\nother related work.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "sustainability-plan": {
+      "textContent": "Explain how the project will remain beneficial after funding support and outline the commitment of the extension team and beneficiaries.Explain how the beneficiaries will continue to benefit beyond the funding period.Discuss the team's willingness to provide continuous technical or mentoring support.Cite plans for certification, facilitation for employment, or integration into micro-enterprises as applicable.",
+      "htmlContent": "<div class=\"space-y-4\"><p class=\"text-sm text-gray-600\">Explain how the project will remain beneficial after funding support and outline the commitment of the extension team and beneficiaries.</p><ol class=\"list-decimal space-y-3 pl-6 text-sm text-gray-700\"><li>Explain how the beneficiaries will continue to benefit beyond the funding period.</li><li>Discuss the team's willingness to provide continuous technical or mentoring support.</li><li>Cite plans for certification, facilitation for employment, or integration into micro-enterprises as applicable.</li></ol><textarea class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200\" rows=\"6\" placeholder=\"Detail the sustainability mechanisms you will implement.\" value=\"This project is designed to be a long-term endeavor beginning with part 1 of the four-phase approach, as follows:\n1 - Educate\t\n2 - Initiate\n3 - Implement\n4 - Sustain\n\nAt the end of each phase, beneficiaries will be given assessments as a means of verifying their continued improvement. The cooperating partners have committed themselves to assist in the realization of the program. Finally, the Alegria Farmers Agriculture Cooperative is willing to take on the lead in sustaining and expanding the program in the future.\nThe extension team will continue to monitor the operations of the output as long as it is operational and accessible.\n\"></textarea></div>",
+      "inputs": [
+        {
+          "index": 0,
+          "tag": "TEXTAREA",
+          "type": "textarea",
+          "placeholder": "Detail the sustainability mechanisms you will implement.",
+          "value": "This project is designed to be a long-term endeavor beginning with part 1 of the four-phase approach, as follows:\n1 - Educate\t\n2 - Initiate\n3 - Implement\n4 - Sustain\n\nAt the end of each phase, beneficiaries will be given assessments as a means of verifying their continued improvement. The cooperating partners have committed themselves to assist in the realization of the program. Finally, the Alegria Farmers Agriculture Cooperative is willing to take on the lead in sustaining and expanding the program in the future.\nThe extension team will continue to monitor the operations of the output as long as it is operational and accessible.\n"
+        }
+      ],
+      "editableCells": []
+    },
+    "budgetary-requirement": {
+      "textContent": "Guidelines in costing the budget:Do not include “allowances”. Canvass the price of your training materials and supplies.Use at least three price quotations.Only items necessary for the project should be included. The budget must be addressed by GAA PBS for institutional projects.Expenses for food, travel, and other logistics must follow allowable cost guidelines.Once the council approves your budget, delivery receipts or official receipts must accompany all audited expenses.A. Training ExpensesDescriptionQuantityUnitUnit Cost (₱)Total Cost (₱)Digital electric\nsubmeter20piece5W Solar panel20pieceSolar bulb20pieceSolar charge\ncontroller20piecepower inverter20pieceSub-total69,800.00Add rowDelete rowB. Office SuppliesDescriptionQuantityUnitUnit Cost (₱)Total Cost (₱)Notebook 20piece20Ballpen20piece20Scented papers  (Certificates)5pack50.00Bond paper2ream400.00Printer Ink (Colored\nand Black)1-black 3-coloredbottle300.00Name Tag Holder20piece50.00Certificate Frames20piece120.00Sub-total6,500.00Add rowDelete rowC. Other ExpensesDescriptionQuantity / UnitUnit Cost (₱)Amount (₱)Tarpaulin2 (5 ft x 5 ft)20/sq ftOther\nSuppliesCoins Digital Timer\n\nTransformer\n\nCoins slot\n\nPlywood\n\nPaint\n\nHinges\n\nKey lock\n\nNails\n\nSand paper\n\nStikwel\n\nDuplex Wire\n\nAC plugMeals AllocationSub-total17,200.00Add rowDelete rowTotal Budgetary RequirementsA. Training Expenses69,800.00B. Office Supplies6,500.00C. Other Expenses17,200.00Total93,500.00",
+      "htmlContent": "<div class=\"space-y-4\"><div class=\"space-y-2 text-sm text-gray-600\"><p class=\"font-semibold text-gray-900\">Guidelines in costing the budget:</p><ul class=\"list-disc space-y-1 pl-6\"><li>Do not include “allowances”. Canvass the price of your training materials and supplies.</li><li>Use at least three price quotations.</li><li>Only items necessary for the project should be included. The budget must be addressed by GAA PBS for institutional projects.</li><li>Expenses for food, travel, and other logistics must follow allowable cost guidelines.</li><li>Once the council approves your budget, delivery receipts or official receipts must accompany all audited expenses.</li></ul></div><div class=\"space-y-6\"><section class=\"space-y-3\"><h4 class=\"text-sm font-semibold text-gray-900\">A. Training Expenses</h4><div class=\"overflow-x-auto\"><table class=\"w-full min-w-[800px] border border-yellow-200 text-sm text-gray-700\"><thead><tr><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 \">Description</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\">Quantity</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 \">Unit</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-right\">Unit Cost (₱)</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-right\">Total Cost (₱)</th></tr></thead><tbody><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Digital electric\nsubmeter</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">20</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">piece</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-right\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><input min=\"0\" step=\"0.01\" class=\"w-full border-none bg-transparent text-right text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"12000.00\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">5W Solar panel</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">20</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">piece</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-right\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><input min=\"0\" step=\"0.01\" class=\"w-full border-none bg-transparent text-right text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"9800.00\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Solar bulb</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">20</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">piece</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-right\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><input min=\"0\" step=\"0.01\" class=\"w-full border-none bg-transparent text-right text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"11000.00\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Solar charge\ncontroller</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">20</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">piece</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-right\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><input min=\"0\" step=\"0.01\" class=\"w-full border-none bg-transparent text-right text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"11000.00\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">power inverter</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">20</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">piece</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-right\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><input min=\"0\" step=\"0.01\" class=\"w-full border-none bg-transparent text-right text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"26000.00\"></td></tr><tr><td class=\"font-semibold text-gray-900 border border-yellow-200 px-3 py-2 align-top\">Sub-total</td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right font-semibold text-gray-900\">69,800.00</td></tr></tbody></table></div><div class=\"mt-3 flex justify-end gap-2 text-xs\"><button type=\"button\" class=\"rounded-full border border-yellow-200 px-3 py-1 font-semibold text-yellow-700 transition hover:bg-yellow-50\">Add row</button><button type=\"button\" class=\"rounded-full border border-yellow-200 px-3 py-1 font-semibold text-yellow-700 transition hover:bg-yellow-50\">Delete row</button></div></section><section class=\"space-y-3\"><h4 class=\"text-sm font-semibold text-gray-900\">B. Office Supplies</h4><div class=\"overflow-x-auto\"><table class=\"w-full min-w-[800px] border border-yellow-200 text-sm text-gray-700\"><thead><tr><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 \">Description</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\">Quantity</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 \">Unit</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-right\">Unit Cost (₱)</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-right\">Total Cost (₱)</th></tr></thead><tbody><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Notebook&nbsp;</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">20</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">piece</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">20</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><input min=\"0\" step=\"0.01\" class=\"w-full border-none bg-transparent text-right text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"400.00\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Ballpen</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">20</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">piece</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">20</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><input min=\"0\" step=\"0.01\" class=\"w-full border-none bg-transparent text-right text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"200.00\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Scented papers&nbsp; (Certificates)</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\">5</td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">pack</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">50.00</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><input min=\"0\" step=\"0.01\" class=\"w-full border-none bg-transparent text-right text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"500.00\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Bond paper</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">2</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">ream</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">400.00</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><input min=\"0\" step=\"0.01\" class=\"w-full border-none bg-transparent text-right text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"800.00\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Printer Ink (Colored\nand Black)</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">1-black 3-colored</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">bottle</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">300.00</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><input min=\"0\" step=\"0.01\" class=\"w-full border-none bg-transparent text-right text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"1200.00\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Name Tag Holder</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">20</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">piece</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">50.00</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><input min=\"0\" step=\"0.01\" class=\"w-full border-none bg-transparent text-right text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"1000.00\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Certificate Frames</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">20</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">piece</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">120.00</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><input min=\"0\" step=\"0.01\" class=\"w-full border-none bg-transparent text-right text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"2400.00\"></td></tr><tr><td class=\"font-semibold text-gray-900 border border-yellow-200 px-3 py-2 align-top\">Sub-total</td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right font-semibold text-gray-900\">6,500.00</td></tr></tbody></table></div><div class=\"mt-3 flex justify-end gap-2 text-xs\"><button type=\"button\" class=\"rounded-full border border-yellow-200 px-3 py-1 font-semibold text-yellow-700 transition hover:bg-yellow-50\">Add row</button><button type=\"button\" class=\"rounded-full border border-yellow-200 px-3 py-1 font-semibold text-yellow-700 transition hover:bg-yellow-50\">Delete row</button></div></section><section class=\"space-y-3\"><h4 class=\"text-sm font-semibold text-gray-900\">C. Other Expenses</h4><div class=\"overflow-x-auto\"><table class=\"w-full min-w-[800px] border border-yellow-200 text-sm text-gray-700\"><thead><tr><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 \">Description</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 \">Quantity / Unit</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-right\">Unit Cost (₱)</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-right\">Amount (₱)</th></tr></thead><tbody><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Tarpaulin</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">2 (5 ft x 5 ft)</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">20/sq ft</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><input min=\"0\" step=\"0.01\" class=\"w-full border-none bg-transparent text-right text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"1000.00\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><p class=\"MsoNormal\"><span style=\"font-size:10.0pt;line-height:115%\">Other\nSupplies<o:p></o:p></span></p></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><p class=\"MsoNormal\" align=\"center\" style=\"margin-left:5.0pt;text-align:center\"><span style=\"font-size:10.0pt;line-height:115%\">Coins Digital Timer<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-left:5.0pt;text-align:center\"><span style=\"font-size:10.0pt;line-height:115%\">Transformer<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-left:5.0pt;text-align:center\"><span style=\"font-size:10.0pt;line-height:115%\">Coins slot<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-left:5.0pt;text-align:center\"><span style=\"font-size:10.0pt;line-height:115%\">Plywood<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-left:5.0pt;text-align:center\"><span style=\"font-size:10.0pt;line-height:115%\">Paint<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-left:5.0pt;text-align:center\"><span style=\"font-size:10.0pt;line-height:115%\">Hinges<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-left:5.0pt;text-align:center\"><span style=\"font-size:10.0pt;line-height:115%\">Key lock<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-left:5.0pt;text-align:center\"><span style=\"font-size:10.0pt;line-height:115%\">Nails<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-left:5.0pt;text-align:center\"><span style=\"font-size:10.0pt;line-height:115%\">Sand paper<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-left:5.0pt;text-align:center\"><span style=\"font-size:10.0pt;line-height:115%\">Stikwel<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\" align=\"center\" style=\"margin-left:5.0pt;text-align:center\"><span style=\"font-size:10.0pt;line-height:115%\">Duplex Wire<o:p></o:p></span></p>\n\n<span style=\"font-size:10.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;\nmso-fareast-font-family:Calibri;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">AC plug</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-right\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><input min=\"0\" step=\"0.01\" class=\"w-full border-none bg-transparent text-right text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"6200.00\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:10.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Meals Allocation</span></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-right\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\"><input min=\"0\" step=\"0.01\" class=\"w-full border-none bg-transparent text-right text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"10000.00\"></td></tr><tr><td class=\"font-semibold text-gray-900 border border-yellow-200 px-3 py-2 align-top\">Sub-total</td><td class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right font-semibold text-gray-900\">17,200.00</td></tr></tbody></table></div><div class=\"mt-3 flex justify-end gap-2 text-xs\"><button type=\"button\" class=\"rounded-full border border-yellow-200 px-3 py-1 font-semibold text-yellow-700 transition hover:bg-yellow-50\">Add row</button><button type=\"button\" class=\"rounded-full border border-yellow-200 px-3 py-1 font-semibold text-yellow-700 transition hover:bg-yellow-50\">Delete row</button></div></section><section class=\"space-y-3\"><h4 class=\"text-sm font-semibold text-gray-900\">Total Budgetary Requirements</h4><div class=\"overflow-x-auto\"><table class=\"w-full min-w-[480px] border border-yellow-200 text-sm text-gray-700\"><tbody><tr><td class=\"font-medium text-gray-900 border border-yellow-200 px-3 py-2 align-top\">A. Training Expenses</td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\">69,800.00</td></tr><tr><td class=\"font-medium text-gray-900 border border-yellow-200 px-3 py-2 align-top\">B. Office Supplies</td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\">6,500.00</td></tr><tr><td class=\"font-medium text-gray-900 border border-yellow-200 px-3 py-2 align-top\">C. Other Expenses</td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right\">17,200.00</td></tr><tr><td class=\"font-semibold uppercase text-gray-900 border border-yellow-200 px-3 py-2 align-top\">Total</td><td class=\"border border-yellow-200 px-3 py-2 align-top text-right font-semibold text-gray-900\">93,500.00</td></tr></tbody></table></div></section></div></div>",
+      "inputs": [
+        {
+          "index": 0,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "12000.00"
+        },
+        {
+          "index": 1,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "9800.00"
+        },
+        {
+          "index": 2,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "11000.00"
+        },
+        {
+          "index": 3,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "11000.00"
+        },
+        {
+          "index": 4,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "26000.00"
+        },
+        {
+          "index": 5,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "400.00"
+        },
+        {
+          "index": 6,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "200.00"
+        },
+        {
+          "index": 7,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "500.00"
+        },
+        {
+          "index": 8,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "800.00"
+        },
+        {
+          "index": 9,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "1200.00"
+        },
+        {
+          "index": 10,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "1000.00"
+        },
+        {
+          "index": 11,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "2400.00"
+        },
+        {
+          "index": 12,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "1000.00"
+        },
+        {
+          "index": 13,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "6200.00"
+        },
+        {
+          "index": 14,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "10000.00"
+        }
+      ],
+      "editableCells": [
+        "Digital electric\nsubmeter",
+        "20",
+        "piece",
+        "",
+        "5W Solar panel",
+        "20",
+        "piece",
+        "",
+        "Solar bulb",
+        "20",
+        "piece",
+        "",
+        "Solar charge\ncontroller",
+        "20",
+        "piece",
+        "",
+        "power inverter",
+        "20",
+        "piece",
+        "",
+        "Notebook",
+        "20",
+        "piece",
+        "20",
+        "Ballpen",
+        "20",
+        "piece",
+        "20",
+        "Scented papers  (Certificates)",
+        "5",
+        "pack",
+        "50.00",
+        "Bond paper",
+        "2",
+        "ream",
+        "400.00",
+        "Printer Ink (Colored\nand Black)",
+        "1-black 3-colored",
+        "bottle",
+        "300.00",
+        "Name Tag Holder",
+        "20",
+        "piece",
+        "50.00",
+        "Certificate Frames",
+        "20",
+        "piece",
+        "120.00",
+        "Tarpaulin",
+        "2 (5 ft x 5 ft)",
+        "20/sq ft",
+        "Other\nSupplies",
+        "Coins Digital Timer\n\nTransformer\n\nCoins slot\n\nPlywood\n\nPaint\n\nHinges\n\nKey lock\n\nNails\n\nSand paper\n\nStikwel\n\nDuplex Wire\n\nAC plug",
+        "",
+        "Meals Allocation",
+        "",
+        ""
+      ]
+    },
+    "endorsements": {
+      "textContent": "Prepared byName / PositionSignatureDateReviewed and Verified ByName / PositionSignatureDateExtension Chairperson / DirectorCollege Dean (for Main Campus only)Campus DirectorEndorsed for BOR ApprovalName / PositionSignatureDateExtension Council RemarksDeferredFor RevisionEndorsed for BOR ApprovalAttachmentsDocumentIncluded",
+      "htmlContent": "<div class=\"space-y-6 text-sm text-gray-700\"><section class=\"space-y-2\"><h4 class=\"text-base font-semibold text-gray-900\">Prepared by</h4><div class=\"overflow-x-auto\"><table class=\"w-full min-w-[640px] border border-yellow-200\"><thead><tr><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Name / Position</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\">Signature</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\">Date</th></tr></thead><tbody><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td></tr></tbody></table></div></section><section class=\"space-y-2\"><h4 class=\"text-base font-semibold text-gray-900\">Reviewed and Verified By</h4><div class=\"overflow-x-auto\"><table class=\"w-full min-w-[640px] border border-yellow-200\"><thead><tr><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Name / Position</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\">Signature</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\">Date</th></tr></thead><tbody><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\">Extension Chairperson / Director</td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\">College Dean (for Main Campus only)</td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\">Campus Director</td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td></tr></tbody></table></div></section><section class=\"space-y-2\"><h4 class=\"text-base font-semibold text-gray-900\">Endorsed for BOR Approval</h4><div class=\"overflow-x-auto\"><table class=\"w-full min-w-[640px] border border-yellow-200\"><thead><tr><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Name / Position</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\">Signature</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\">Date</th></tr></thead><tbody><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top text-center\"></td></tr></tbody></table></div></section><section class=\"space-y-2\"><h4 class=\"text-base font-semibold text-gray-900\">Extension Council Remarks</h4><div class=\"grid gap-2\"><label class=\"flex items-center gap-3 text-sm font-medium text-gray-900\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"><span contenteditable=\"true\" class=\"flex-1 rounded border border-yellow-200 px-3 py-1\">Deferred</span></label><label class=\"flex items-center gap-3 text-sm font-medium text-gray-900\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"><span contenteditable=\"true\" class=\"flex-1 rounded border border-yellow-200 px-3 py-1\">For Revision</span></label><label class=\"flex items-center gap-3 text-sm font-medium text-gray-900\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"><span contenteditable=\"true\" class=\"flex-1 rounded border border-yellow-200 px-3 py-1\">Endorsed for BOR Approval</span></label></div></section><section class=\"space-y-2\"><h4 class=\"text-base font-semibold text-gray-900\">Attachments</h4><div class=\"overflow-x-auto\"><table class=\"w-full min-w-[480px] border border-yellow-200\"><thead><tr><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Document</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800 text-center\">Included</th></tr></thead><tbody><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td><td class=\"border border-yellow-200 px-3 py-2 align-top text-center\"><input class=\"h-4 w-4 rounded border-yellow-300 text-yellow-500 focus:ring-yellow-400\" type=\"checkbox\"></td></tr></tbody></table></div></section></div>",
+      "inputs": [
+        {
+          "index": 0,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 1,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 2,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 3,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 4,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 5,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 6,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        },
+        {
+          "index": 7,
+          "tag": "INPUT",
+          "type": "checkbox",
+          "placeholder": "",
+          "checked": false
+        }
+      ],
+      "editableCells": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Extension Chairperson / Director",
+        "",
+        "",
+        "College Dean (for Main Campus only)",
+        "",
+        "",
+        "Campus Director",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Deferred",
+        "For Revision",
+        "Endorsed for BOR Approval",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "training-design": {
+      "textContent": "Project Title\nCompetencies / Topics\tNumber of Hours\tResource Person\nOpening Program and Orientation\t\t\n\nEngr. Naomi Bajao\n\nApril Jean Edillon\nReading the electric bill\t\t\n\nEngr. Ramon Conejos\n\nJae-an Sarucam\nEffects of Climate Change\t\tEngr. Fernando N. Mangubat Jr.\nSolar Energy\t\tEngr. Romel Baflor\nSolar Panels\t\tMr. Victor Patindol\nSolar energy applications\t\tDr. James Paul Tamayo\nElectricity Decarbonization\t\tEngr. Naomi A. Bajao / Engr. David Tauli, April Jean Edillon\nClosing Program and Evaluation\t\tDevonna Celedonio, Ma. Carla Abaquita, Jae-an Sarucam\nTotal Hours\t48\t\nAdd row\nDelete row",
+      "htmlContent": "<div class=\"space-y-4\"><div class=\"grid gap-4 md:grid-cols-2\"><label class=\"flex flex-col gap-1 text-sm font-medium text-gray-900\">Project Title<input class=\"w-full rounded-lg border border-yellow-200 bg-white px-3 py-2 text-sm text-gray-900 focus:border-yellow-400 focus:outline-none focus:ring-2 focus:ring-yellow-200\" placeholder=\"Enter project title\" value=\"EDP HaTSPoTSCC (Electricity Decarbonization Program: Harnessing The Sun's Power Through SustainableCommunity Cooperation)\"></label></div><div class=\"overflow-x-auto\"><table class=\"w-full min-w-[640px] border border-yellow-200 text-sm text-gray-700\"><thead><tr><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Competencies / Topics</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Number of Hours</th><th class=\"border border-yellow-200 bg-yellow-100 px-3 py-2 text-left font-semibold text-gray-800\">Resource Person</th></tr></thead><tbody><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:12.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Opening Program and\nOrientation</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"><input min=\"0\" step=\"0.5\" class=\"w-full border-none bg-transparent text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"4\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:115%\">Engr. Naomi\nBajao<o:p></o:p></span></p>\n\n<span style=\"font-size:12.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;\nmso-fareast-font-family:Calibri;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">April Jean Edillon</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:12.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Reading the electric\nbill</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"><input min=\"0\" step=\"0.5\" class=\"w-full border-none bg-transparent text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"8\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:115%\">Engr. Ramon\nConejos<o:p></o:p></span></p>\n\n<span style=\"font-size:12.0pt;line-height:115%;font-family:&quot;Calibri&quot;,sans-serif;\nmso-fareast-font-family:Calibri;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">Jae-an Sarucam</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:12.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Effects of Climate\nChange</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"><input min=\"0\" step=\"0.5\" class=\"w-full border-none bg-transparent text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"4\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:12.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Engr. Fernando N.\nMangubat Jr.</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:12.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Solar Energy</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"><input min=\"0\" step=\"0.5\" class=\"w-full border-none bg-transparent text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"8\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:12.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Engr. Romel Baflor</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:12.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Solar Panels</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"><input min=\"0\" step=\"0.5\" class=\"w-full border-none bg-transparent text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"8\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:12.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Mr. Victor Patindol</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:12.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Solar energy\napplications</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"><input min=\"0\" step=\"0.5\" class=\"w-full border-none bg-transparent text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"4\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:12.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Dr. James Paul Tamayo</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:12.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Electricity\nDecarbonization</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"><input min=\"0\" step=\"0.5\" class=\"w-full border-none bg-transparent text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"8\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:12.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Engr. Naomi A. Bajao\n/ Engr. David Tauli, April Jean Edillon</span></td></tr><tr><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:12.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Closing Program and\nEvaluation</span></td><td class=\"border border-yellow-200 px-3 py-2 align-top\"><input min=\"0\" step=\"0.5\" class=\"w-full border-none bg-transparent text-sm text-gray-900 focus:outline-none focus:ring-0\" type=\"number\" value=\"4\"></td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"><span style=\"font-size:12.0pt;line-height:115%;\nfont-family:&quot;Calibri&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:\nEN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">Devonna Celedonio,\nMa. Carla Abaquita, Jae-an Sarucam</span></td></tr><tr><td class=\"font-semibold text-gray-900 border border-yellow-200 px-3 py-2 align-top\">Total Hours</td><td class=\"border border-yellow-200 px-3 py-2 align-top font-semibold text-gray-900\">48</td><td contenteditable=\"true\" class=\"border border-yellow-200 px-3 py-2 align-top\"></td></tr></tbody></table></div><div class=\"mt-3 flex justify-end gap-2 text-xs\"><button type=\"button\" class=\"rounded-full border border-yellow-200 px-3 py-1 font-semibold text-yellow-700 transition hover:bg-yellow-50\">Add row</button><button type=\"button\" class=\"rounded-full border border-yellow-200 px-3 py-1 font-semibold text-yellow-700 transition hover:bg-yellow-50\">Delete row</button></div></div>",
+      "inputs": [
+        {
+          "index": 0,
+          "tag": "INPUT",
+          "type": "text",
+          "placeholder": "Enter project title",
+          "value": "EDP HaTSPoTSCC (Electricity Decarbonization Program: Harnessing The Sun's Power Through SustainableCommunity Cooperation)"
+        },
+        {
+          "index": 1,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "4"
+        },
+        {
+          "index": 2,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "8"
+        },
+        {
+          "index": 3,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "4"
+        },
+        {
+          "index": 4,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "8"
+        },
+        {
+          "index": 5,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "8"
+        },
+        {
+          "index": 6,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "4"
+        },
+        {
+          "index": 7,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "8"
+        },
+        {
+          "index": 8,
+          "tag": "INPUT",
+          "type": "number",
+          "placeholder": "",
+          "value": "4"
+        }
+      ],
+      "editableCells": [
+        "Opening Program and Orientation",
+        "Engr. Naomi Bajao\n\nApril Jean Edillon",
+        "Reading the electric bill",
+        "Engr. Ramon Conejos\n\nJae-an Sarucam",
+        "Effects of Climate Change",
+        "Engr. Fernando N. Mangubat Jr.",
+        "Solar Energy",
+        "Engr. Romel Baflor",
+        "Solar Panels",
+        "Mr. Victor Patindol",
+        "Solar energy applications",
+        "Dr. James Paul Tamayo",
+        "Electricity Decarbonization",
+        "Engr. Naomi A. Bajao / Engr. David Tauli, April Jean Edillon",
+        "Closing Program and Evaluation",
+        "Devonna Celedonio, Ma. Carla Abaquita, Jae-an Sarucam",
+        ""
+      ]
+    }
+  },
+  "summary": {
+    "trainingExpensesSubtotal": 69800,
+    "officeSuppliesSubtotal": 6500,
+    "otherExpensesSubtotal": 17200,
+    "totalBudgetaryRequirements": 93500,
+    "trainingDesignHoursTotal": 48
+  },
+  "status": "Pending",
+  "__v": 0
+}]
