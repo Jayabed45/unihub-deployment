@@ -1,18 +1,15 @@
-import { NextConfig } from "next";
-import path from 'path';
-
-const nextConfig: NextConfig = {
+const nextConfig = {
   // Environment variables
   env: {
     NEXT_PUBLIC_API_URL: process.env.NEXT_PUBLIC_API_URL || 'https://unihub-deployment-backend.onrender.com',
   },
   
   // Image optimization
- images: {
-  remotePatterns: [
+  images: {
+    remotePatterns: [
       {
-      protocol: 'https',
-      hostname: 'unihub-deployment-backend.onrender.com',
+        protocol: 'https',
+        hostname: 'unihub-deployment-backend.onrender.com',
       },
     ],
   },
@@ -40,9 +37,8 @@ const nextConfig: NextConfig = {
     ];
   },
 
-  // Webpack configuration to exclude backend from client-side build
-  webpack: (config, { isServer }) => {
-    // Exclude backend code from client-side bundle
+  // Webpack configuration
+  webpack: (config: { resolve: { fallback: any; }; module: { rules: { test: RegExp; loader: string; }[]; }; }, { isServer }: any) => {
     if (!isServer) {
       config.resolve.fallback = {
         ...config.resolve.fallback,
@@ -56,30 +52,32 @@ const nextConfig: NextConfig = {
 
       // Exclude backend directory
       config.module.rules.push({
-        test: /backend\/.*\.(ts|js|tsx|jsx)$/,
+        test: /[\\/]backend[\\/].*\.(ts|js|tsx|jsx)$/,
         loader: 'null-loader',
       });
     }
     return config;
   },
 
-  // Exclude backend dependencies from server components
+  // External packages for server components
   experimental: {
-    serverComponentsExternalPackages: [
-      'mongoose',
-      'bcryptjs',
-      'jsonwebtoken',
-      'mongodb',
-      'nodemailer',
-      'exceljs'
-    ],
     serverActions: {
       bodySizeLimit: '2mb',
     },
   },
 
+  // External packages to be treated as external
+  serverExternalPackages: [
+    'mongoose',
+    'bcryptjs',
+    'jsonwebtoken',
+    'mongodb',
+    'nodemailer',
+    'exceljs'
+  ],
+
   // React Strict Mode
   reactStrictMode: true,
 };
 
-export default nextConfig;
+module.exports = nextConfig;
