@@ -30,7 +30,16 @@ if (!uri) {
   process.exit(1);
 }
 
-mongoose.connect(uri);
+mongoose.connect(uri, {
+  serverSelectionTimeoutMS: 5000,
+  socketTimeoutMS: 45000,
+  connectTimeoutMS: 30000,
+  tls: true,
+  tlsAllowInvalidCertificates: true
+}).catch(err => {
+  console.error('MongoDB connection error:', err);
+  process.exit(1);
+});
 
 const connection = mongoose.connection;
 connection.once('open', () => {
