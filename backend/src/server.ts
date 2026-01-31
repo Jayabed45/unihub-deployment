@@ -31,19 +31,18 @@ if (!uri) {
 }
 
 mongoose.connect(uri, {
-  serverSelectionTimeoutMS: 5000,
+  serverSelectionTimeoutMS: 10000,
   socketTimeoutMS: 45000,
-  connectTimeoutMS: 30000,
-  tls: true,
-  tlsAllowInvalidCertificates: true
+  connectTimeoutMS: 10000,
+  retryWrites: true,
+  w: 'majority',
+  autoIndex: true,
+  maxPoolSize: 10
+}).then(() => {
+  console.log('MongoDB database connection established successfully');
 }).catch(err => {
   console.error('MongoDB connection error:', err);
   process.exit(1);
-});
-
-const connection = mongoose.connection;
-connection.once('open', () => {
-  console.log('MongoDB database connection established successfully');
 });
 
 const server = http.createServer(app);
