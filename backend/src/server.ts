@@ -12,7 +12,11 @@ import metricsRoutes from './routes/metrics';
 dotenv.config();
 
 const app = express();
-const port = process.env.PORT || 5000;
+const port = process.env.PORT;
+if (!port) {
+  console.error('PORT is not defined in the environment variables');
+  process.exit(1);
+}
 
 app.use(cors({ origin: 'http://localhost:3000' }));
 // Allow larger JSON bodies so full proposal HTML snapshots can be saved
